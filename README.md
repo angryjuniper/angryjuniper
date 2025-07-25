@@ -73,6 +73,11 @@ More ways to connect coming soon as I release new projects.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
+<!-- Donations -->
+<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
+
 ---
 
 *If you’re into privacy, automation, or building things that make tech more accessible and secure—let’s connect! I’m always up for collaborating or learning something new.*
